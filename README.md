@@ -33,6 +33,7 @@ I will add all my learning content & experience here.
 ## Tools
 
 [<img src="https://create-react-app.dev/img/favicon/favicon.ico" alt="Create React App" height="16" width="16" /> Create React App](https://create-react-app.dev/) -- For Small Projects
+
 [<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="16" width="16" /> Vite](https://vitejs.dev/) -- For Production or Large Projects
 
 ## VS Code Extensions
