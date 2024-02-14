@@ -123,7 +123,7 @@ The spread operator does not clone identical properties
 
 /* Shallow Copy vs. Deep Copy */
 
-// Shallow
+// Shallow Copy
 // const myName = {
 //   fullName: { firstName: "Oluwatobi", lastName: "Sofela" },
 // };
@@ -136,7 +136,7 @@ The spread operator does not clone identical properties
 
 // console.log(bio); // { fullName: { firstName: "Tobi", lastName: "Sofela" } }
 
-// Deep
+// Deep Copy
 const myName = {
   fullName: { firstName: "Oluwatobi", lastName: "Sofela" },
 };
