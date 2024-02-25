@@ -36,6 +36,6 @@ I will add all my learning content & experience here.
 
 [<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="16" width="16" /> Vite](https://vitejs.dev/) -- For Production or Large Projects
 
-## VS Code Extensions
+## VS Code Extensions 
 
 [<img src="https://quokkajs.com/assets/img/favicon.ico" alt="Quokka JS" height="16" width="16" /> Quokka JS](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
