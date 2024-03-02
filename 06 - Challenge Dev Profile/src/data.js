@@ -8,23 +8,23 @@ const profileData = [
     skills: [
       {
         name: "React",
-        emoji: "💪",
         color: "light blue",
+        level: "Intermediate",
       },
       {
         name: "HTML+CSS",
-        emoji: "💪",
         color: "blue",
+        level: "Advanced",
       },
       {
         name: "JavaScript",
-        emoji: "💪",
         color: "yellow",
+        level: "Intermediate",
       },
       {
         name: "Svelte",
-        emoji: "👶",
         color: "orangered",
+        level: "Beginner",
       },
     ],
   },
@@ -37,23 +37,23 @@ const profileData = [
     skills: [
       {
         name: "React",
-        emoji: "💪",
         color: "light blue",
+        level: "Intermediate",
       },
       {
         name: "JavaScript",
-        emoji: "💪",
         color: "yellow",
+        level: "Intermediate",
       },
       {
         name: "GraphQL",
-        emoji: "🚀",
         color: "purple",
+        level: "Advanced",
       },
       {
         name: "Node.js",
-        emoji: "🚀",
         color: "green",
+        level: "Intermediate",
       },
     ],
   },
@@ -66,23 +66,23 @@ const profileData = [
     skills: [
       {
         name: "HTML+CSS",
-        emoji: "💪",
         color: "blue",
+        level: "Advanced",
       },
       {
         name: "JavaScript",
-        emoji: "💪",
         color: "yellow",
+        level: "Intermediate",
       },
       {
         name: "SVG",
-        emoji: "🎨",
         color: "orange",
+        level: "Intermediate",
       },
       {
         name: "WordPress",
-        emoji: "🌐",
         color: "blue",
+        level: "Intermediate",
       },
     ],
   },
@@ -95,23 +95,23 @@ const profileData = [
     skills: [
       {
         name: "Angular",
-        emoji: "🅰️",
         color: "red",
+        level: "Intermediate",
       },
       {
         name: "Node.js",
-        emoji: "🚀",
         color: "green",
+        level: "Advanced",
       },
       {
         name: "TypeScript",
-        emoji: "🟦",
         color: "blue",
+        level: "Intermediate",
       },
       {
         name: "Docker",
-        emoji: "🐳",
         color: "blue",
+        level: "Intermediate",
       },
     ],
   },
@@ -124,23 +124,23 @@ const profileData = [
     skills: [
       {
         name: "Python",
-        emoji: "🐍",
         color: "blue",
+        level: "Intermediate",
       },
       {
         name: "JavaScript",
-        emoji: "💪",
         color: "yellow",
+        level: "Intermediate",
       },
       {
         name: "React",
-        emoji: "💪",
         color: "light blue",
+        level: "Intermediate",
       },
       {
         name: "AWS",
-        emoji: "☁️",
         color: "orange",
+        level: "Advanced",
       },
     ],
   },

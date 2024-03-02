@@ -1,5 +1,6 @@
 import React from "react";
 import "./Card.css";
+import emojiData from "./emojiData.js";
 
 function Card({ profile }) {
   return (
@@ -41,7 +42,7 @@ function Skill({ skill }) {
   return (
     <div className="skill" style={skillStyle}>
       <span>{skill.name}</span>
-      <span>{skill.emoji}</span>
+      <span>{emojiData[skill.level]}</span>
     </div>
   );
 }
